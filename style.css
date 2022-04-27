@@ -1,0 +1,17 @@
+.box {
+  background-color: red;
+  height: 250px;
+}
+
+.box__centered {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.text {
+  color: yellow;
+  text-align: center;
+}
+
